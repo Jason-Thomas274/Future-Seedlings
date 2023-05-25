@@ -1,2 +1,2 @@
 # Future-Seedlings
-Educational website, linked to TPT for purchasable content
+Educational website to showcase e-learning materials, linked to TPT for purchasable downloadable content
